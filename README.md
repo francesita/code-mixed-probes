@@ -21,7 +21,12 @@ The data folder contains the data used for each of the experiments presented in 
 
 If you need help or clarification on the data or code, please do not hesitate to contact me: fxl846{at}cs.bham.ac.uk
 
+## Citation
 
+If you use the data or code in this repository, please cite:
+```bibtex
+@InProceedings{}
+```
 
 
 
