@@ -1,4 +1,4 @@
-# Investigating Pre-Trained Model Generalisation with Code-Switched Text: Insights Using Code-Mixed Probes
+# Code-Mixed Probes Show How Pre-Trained Models Generalise On Code-Switched Text 
 This repository consists of the code and data used for the COLING-LREC 2024 paper titled 'Code-Mixed Probes Show How Pre-Trained Models Generalise On Code-Switched Text' by Frances Laureano De Leon, Harish Tayyar Madabushi, and Mark Lee.
 
 ## Abstract
