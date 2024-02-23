@@ -6,9 +6,8 @@ Code-switching is a prevalent linguistic phenomenon in which multilingual indivi
 
 ## PLMs used
 1. bert-base-multilingual-uncased
-2. bert-large-multilingual-uncased
-3. xlm-roberta-base
-4. xlm-roberta-large
+2. xlm-roberta-base
+3. xlm-roberta-large
 
 ## Code
 The reposotory is divided between Semantics, Layer-wise, and Syntactic folders. Each folder corresponds to the type of experiments performed as presented in the paper. 
