@@ -11,7 +11,7 @@ Code-switching is a prevalent linguistic phenomenon in which multilingual indivi
 
 ## Code
 The repository is divided between Semantics, and Layer-wise, and Syntactic folders. Each folder corresponds to the type of experiments performed as presented in the paper. In the syntactic folder we do not include the code for training a structural probe, as we used the code base by Ethan Chi found at https://github.com/ethanachi/multilingual-probing-visualization. 
-=======
+
 The repository is divided between Semantics, Layer-wise, and Syntactic folders. Each folder corresponds to the type of experiments performed as presented in the paper. 
 
 
