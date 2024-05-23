@@ -20,6 +20,8 @@ The repository is divided between Semantics, Layer-wise, and Syntactic folders. 
 
 The data folder contains the data used for each of the experiments presented in the paper. The data folder contains subfolders: 'semantics' and 'syntactic'. The data in each subfolder corresponds to the title of each of the experiments mentioned in the paper. There is not a layer-wise folder included because the data used for this set of experiments is publicly available.
 
+warning: some of the data may contain profanity as it was collected from social media sources.
+
 ## Contact
 
 If you need help or clarification on the data or code, please do not hesitate to contact me: fxl846{at}cs.bham.ac.uk
