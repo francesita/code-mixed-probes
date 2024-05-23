@@ -14,7 +14,7 @@ The reposotory is divided between Semantics, Layer-wise, and Syntactic folders. 
 
 ## Data
 
-The data folder contains the data used for each of the experiments presented in the paper. The data folder contains subfolders: 'semantics' , 'layer-wise', and 'syntactic'. The data in each subfolder corresponds to the title of each of the experiments mentioned in the paper. 
+The data folder contains the data used for each of the experiments presented in the paper. The data folder contains subfolders: 'semantics' and 'syntactic'. The data in each subfolder corresponds to the title of each of the experiments mentioned in the paper. There is not a layer-wise folder included because the data used for this set of experiments is publicly available.
 
 ## Contact
 
